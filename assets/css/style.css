@@ -117,8 +117,12 @@ ul, li {
   display: block;
 }
 
-.gift-imgs {
+/* .gift-imgs {
   margin: 30px 60px 0 60px;
+} */
+
+.gift-btn {
+  margin-bottom: 30px;
 }
 
 /* Footer Section */
