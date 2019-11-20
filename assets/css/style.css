@@ -73,12 +73,22 @@ ul, li {
   display: block;
   height: 100%;
   margin: 0px;
+  position: relative;
+  text-align: center;
+  color: white;
 }
 
 .hero-img {
   width: 100%;
   max-height: auto;
   margin: auto;
+}
+
+.hero-text {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /* Design Ring Section */
