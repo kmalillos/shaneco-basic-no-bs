@@ -1,0 +1,85 @@
+/* Fonts */
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif; */
+
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+  text-transform: uppercase;
+}
+
+h5 {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}
+
+button, p, li {
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul, li {
+  list-style-type: none;
+ }
+
+ 
+
+ /* center align */
+.center-align {
+  display: flex;
+  justify-content: space-around;
+  align-self: center;
+}
+
+ /* Top Nav */
+.top-nav {
+  margin: 5px;
+}
+
+.icon {
+  margin:8px;
+}
+
+/* Nav Menu */
+
+/* Navbar container */
+.navbar {
+  background-color: #333;
+  width: 100%;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}
+  
+.navbar a {
+  background-color: #333;
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+  
+/* Carousel */
+
+.carousel-img {
+  width: 100%;
+}
+
+.carousel-caption {
+  top: 0;
+  bottom: auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.section {
+    margin: 30px;
+}
+
+.gift-imgs {
+    margin: 30px 30px 0 30px;
+}
+
+/* Social Icons in Footer */
+.social{
+  margin-right:30px;
+}
